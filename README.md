@@ -13,3 +13,5 @@ Realizamos uma validação Hold-Out e calculamos o erro quadrático médio (EQM)
 Em seguida, incluímos a variável "Mobiliado" no modelo e novamente calculamos o EQM para verificar se houve melhoria na precisão das previsões.
 
 Por fim, adicionamos a variável "Número de Quartos" ao modelo e avaliamos novamente o desempenho usando o EQM.
+
+Pode ser usado o arquivo .csv ou .xlsx
