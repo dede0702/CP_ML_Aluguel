@@ -15,3 +15,5 @@ Em seguida, incluímos a variável "Mobiliado" no modelo e novamente calculamos 
 Por fim, adicionamos a variável "Número de Quartos" ao modelo e avaliamos novamente o desempenho usando o EQM.
 
 Pode ser usado o arquivo .csv ou .xlsx
+***df = pd.read_excel para (.csv)
+***df = pd.read_csv  para (.xlsx)
